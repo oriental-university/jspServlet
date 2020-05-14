@@ -3,7 +3,7 @@
 	position: fixed;
 	bottom: 0;
 	width: 100%;
-	height: 40px;
+	height: 38px;
 	background-color: lightblue;
 }
 </style>
@@ -13,7 +13,7 @@
 		<div class="container">
 			<img
 				src="file:///F:/java%20program/todo-application-jsp-servlet-jdbc-mysql-master/todo-application-jsp-servlet-jdbc-mysql-master/favicon.ico"
-				alt="Cinque Terre" width="50" height="50">
+				alt="Cinque Terre" width="60" height="60">
 			<div class="topleft">
 				<a href="https://www.dhavisoft.com" class="navbar-brand">
 					Dhavisoft-Todo App</a>

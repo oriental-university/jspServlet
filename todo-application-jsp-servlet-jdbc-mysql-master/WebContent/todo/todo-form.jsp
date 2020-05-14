@@ -16,15 +16,18 @@
 <body>
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark"
-			style="background-color: tomato">
-			<div>
-				<a href="https://www.javaguides.net" class="navbar-brand"> Todo
-					App</a>
-			</div>
+			style="background-color: lightblue">
+			<div class="container">
+			<img
+				src="file:///F:/java%20program/todo-application-jsp-servlet-jdbc-mysql-master/todo-application-jsp-servlet-jdbc-mysql-master/favicon.ico"
+				alt="Cinque Terre" width="50" height="50">
+			<div class="topleft">
+				<a href="https://www.dhavisoft.com" class="navbar-brand">
+					</a>
 
 			<ul class="navbar-nav">
 				<li><a href="<%=request.getContextPath()%>/list"
-					class="nav-link">Todos</a></li>
+					class="nav-link">Todos List</a></li>
 			</ul>
 
 			<ul class="navbar-nav navbar-collapse justify-content-end">
